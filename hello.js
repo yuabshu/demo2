@@ -1,4 +1,3 @@
 window.onload=function(){
-	var obj=document.getElementById("yes");
-	
+	var obj=document.getElementById("yes");	
 }
